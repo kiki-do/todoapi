@@ -3,60 +3,67 @@
 		{
 			"id": "2",
 			"complete": true,
+			"title": "task",
 			"text": "sadsadaASDDSSADsda",
 			"stage": "start",
+			"order": "low",
 			"undertask": [
 				{
 					"id": "2",
 					"complete": true,
 					"text": "sadsadaASDDSSADsda",
-					"stage": "start",
-					"order": "low"
+					"stage": "start"
 				}
 			]
 		},
 		{
 			"id": "3",
 			"complete": false,
+			"title": "task",
 			"text": "sadsadaASDDSSADsda",
 			"stage": "develop",
+			"order": "low",
 			"undertask": [
 				{
 					"id": "3",
 					"complete": true,
+					"title": "task",
 					"text": "sadsadaASDDSSADsda",
-					"stage": "start",
-					"order": "low"
+					"stage": "start"
 				}
 			]
 		},
 		{
 			"id": "4",
 			"complete": true,
+			"title": "task",
 			"text": "asdasdasda",
 			"stage": "start",
+			"order": "low",
 			"undertask": [
 				{
 					"id": "4",
 					"complete": true,
+					"title": "task",
 					"text": "sadsadaASDDSSADsda",
-					"stage": "start",
-					"order": "low"
+					"stage": "start"
 				}
 			]
 		},
 		{
 			"id": "5",
 			"complete": true,
+			"title": "task",
 			"text": "asdasdasxczczasda",
+			"order": "low",
 			"stage": "done",
 			"undertask": [
 				{
 					"id": "5",
 					"complete": true,
+					"title": "task",
 					"text": "sadsadaASDDSSADsda",
-					"stage": "start",
-					"order": "low"
+					"stage": "start"
 				}
 			]
 		}
